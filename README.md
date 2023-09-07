@@ -1,4 +1,4 @@
-![J8ahmed Intro video](./portfolio-intro.gif)
+<img src="./portfolio-intro.gif" alt="J8ahmed Intro video" style="width: 100%;">
 
 ---
 
