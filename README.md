@@ -85,34 +85,69 @@ I'm a team player, a self-starter, a learner, and a goal-focused problem solver.
 
 <br/>  
 
-### My Projects 
+### Some Fun Projects I Built
+
 <article>
-      <div>
-  <div>
-<table>
-  <tbody><tr>
-    <td width="33%" valign="top">
-      <h3><a id="user-content-travelaraorg" class="anchor" aria-hidden="true" href="#travelaraorg"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Cronofy - Tweet Scheduler</h3>
-        <br>
-        <p><a href="http://www.cronofy.tech/" rel="nofollow">Visit Site</a></p>
-        <br>
-        <a href="http://www.cronofy.tech/" rel="nofollow">
-            <img src="https://media0.giphy.com/media/3sbVyKmXxkxvaitZUo/giphy.gif" width="100%" alt="Cronofy.tech" data-canonical-src="https://media0.giphy.com/media/3sbVyKmXxkxvaitZUo/giphy.gif" style="max-width:100%;">
-        </a>
-        <p><strong>HTML, CSS, Javascript, Bootstrap, Node.js, Express.js, Firebase, &amp; Twitter API </strong> - Cronofy - A web app that lets you schedule your twitter posts.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3><a id="user-content-portfolio" class="anchor" aria-hidden="true" href="#portfolio"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Portfolio</h3>
-        <br>
-        <p> <a href="https://www.ibrahimgurhan.com" rel="nofollow">Visit Site</a></p>
-        <br>
-        <a href="https://www.ibrahimgurhan.com" rel="nofollow">
-            <img src="https://media3.giphy.com/media/aUKBycWIVSGyTam4JT/giphy.gif" width="100%" alt="Portfolio" data-canonical-src="https://media3.giphy.com/media/aUKBycWIVSGyTam4JT/giphy.gif" style="max-width:100%;">
-        </a>
-        <p><strong>HTML5, CSS3, Bootstrap, Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
-    </td>
-  </tr>
-</tbody></table>
+    <table>
+        <tbody>
+            <tr>
+                <td width="33%" valign="top">
+                    <h3>Rainy Day Animation</h3>
+                    <br>
+                    <p>
+                        <a href="https://projects.j8ahmed.com/rainy-day-animation/" rel="noreferrer noopener" target="_blank">Visit Site</a>
+                        <br>
+                        <a href="https://github.com/j8ahmed/rain_animation_2021" rel="noreferrer noopener" target="_blank">Visit GitHub Repo</a>
+                    </p>
+                    <br>
+                    <a href="https://projects.j8ahmed.com/rainy-day-animation/" rel="noreferrer noopener" target="_blank">
+                      <img src="./rain-animation.gif" width="100%" alt="Rainy Day Animation" style="max-width:100%;">
+                    </a>
+                </td>
+                <td width="33%" valign="top">
+                    <h3>Personal Portfolio</h3>
+                    <br>
+                    <p>
+                        <a href="https://portfolio.j8ahmed.com/portfolio" rel="noreferrer noopener" target="_blank">Visit Site</a>
+                        <br>
+                        <br>
+                    </p>
+                    <br>
+                    <a href="https://portfolio.j8ahmed.com/portfolio" rel="noreferrer noopener" target="_blank">
+                      <img src="./portfolio-projects.gif" width="100%" alt="Portfolio Site Demo" style="max-width:100%;">
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td width="33%" valign="top">
+                    <h3>Quiz App</h3>
+                    <br>
+                    <p>
+                        <a href="https://projects.j8ahmed.com/quiz-app/" rel="noreferrer noopener" target="_blank">Visit Site</a>
+                        <br>
+                        <a href="https://github.com/j8ahmed/quiz_app_demo_react_typescript" rel="noreferrer noopener" target="_blank">Visit GitHub Repo</a>
+                    </p>
+                    <br>
+                    <a href="https://projects.j8ahmed.com/quiz-app/" rel="noreferrer noopener" target="_blank">
+                      <img src="./quiz-app.gif" width="100%" alt="Quiz App Demo" style="max-width:100%;">
+                    </a>
+                </td>
+                <td width="33%" valign="top">
+                    <h3>iPhone Calculator</h3>
+                    <br>
+                    <p>
+                        <a href="https://projects.j8ahmed.com/iphone-calculator/" rel="noreferrer noopener" target="_blank">Visit Site</a>
+                        <br>
+                        <a href="https://github.com/j8ahmed/iphone_calculator" rel="noreferrer noopener" target="_blank">Visit GitHub Repo</a>
+                    </p>
+                    <br>
+                    <a href="https://projects.j8ahmed.com/iphone-calculator/" rel="noreferrer noopener" target="_blank">
+                      <img src="./iphone-calculator.gif" width="100%" alt="iPhone Calculator Demo" style="max-width:100%;">
+                    </a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
 </article>
 
 ![J8ahmed Just Code It banner](./nike-just-code-it-teal-twitter-banner.jpg)
@@ -147,7 +182,15 @@ I'm a team player, a self-starter, a learner, and a goal-focused problem solver.
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=j8ahmed&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=j8ahmed&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j8ahmed&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
 
 <br/>  
 
