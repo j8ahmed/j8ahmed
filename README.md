@@ -85,7 +85,7 @@ I'm a team player, a self-starter, a learner, and a goal-focused problem solver.
 
 <br/>  
 
-### Some Fun Projects I Built
+## Some Fun Projects I Built
 
 <article>
     <table>
