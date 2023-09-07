@@ -1,4 +1,4 @@
-<img src="./portfolio-intro.gif" alt="J8ahmed Intro video" style="width: 100%;">
+<img src="./portfolio-intro.gif" alt="J8ahmed Intro video" width="100%">
 
 ---
 
