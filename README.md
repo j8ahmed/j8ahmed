@@ -1,7 +1,8 @@
+<!--
 <img src="./portfolio-intro.gif" alt="J8ahmed Intro video" width="100%">
 
 ---
-
+-->
 ### 👋, Thanks For Checking Out My GitHub Page
 
 I'm a Software Developer based in Toronto, Canada. I am proficient in both **Frontend** and **Backend** development and I try to do everything in between. I am a Vim fanatic and an open-source supporter 🚀.
