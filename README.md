@@ -9,7 +9,7 @@ I'm a Software Developer based in Toronto, Canada. I am proficient in both **Fro
 
 I'm a team player, a self-starter, a learner, and a goal-focused problem solver. I combine my soft skills with my technical experience to provide clients with purposeful software solutions. Ultimately, it's about the team and what I can do to help us win as a whole... Yeah I'm a big sports fan too 😉
 
-- 🔭 I’m currently working on Reproducing the [CodePen Top 100 Pens - 2023](https://codepen.io/2022/popular/pens/)
+- 🔭 I’m currently working on Reproducing the [CodePen Top 100 Pens - 2023](https://codepen.io/2023/popular/pens/)
 - 🌱 I’m currently learning Terraform and Kubernetes
 - ❓ Ask me about anything related to the MERN stack and related technologies
 - ⚡ Fun fact: I use spaces over tabs (I converted in 2022 😅)
